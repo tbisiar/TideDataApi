@@ -1,4 +1,4 @@
-package io.swagger.api;
+package com.terrybisiar.api;
 
 import java.io.IOException;
 
